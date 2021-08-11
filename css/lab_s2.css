@@ -1,0 +1,43 @@
+* {
+    font-family: "Karma", sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: center;
+
+}
+.main{
+    width: 1349px;
+}
+.top{
+    text-align: center;
+}
+
+.row{
+    width: 100%;
+    float: left;
+}
+.item{
+    float: left;
+    width: 325px;
+    margin: 5px;
+}
+img{
+    width: 100%;
+}
+.w3-image{
+    width: 80%;
+}
+.third{
+    width: 33.33%;
+    float: left;
+    text-align: left;
+}
+
+
+
+
