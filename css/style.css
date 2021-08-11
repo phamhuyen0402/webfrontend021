@@ -1,0 +1,32 @@
+h1{
+    color: red;
+}
+p{
+    color: blueviolet;
+    font-size: 14px;
+    text-align: justify;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    text-decoration: none;
+    text-transform: none;
+    width: 600px;
+    line-height:3;
+}
+div{
+    width: 600px;
+    float: left;
+    border: 1px solid #2b7f4d;
+    margin: 10px;/*từ border ra ngoài*/
+    padding: 10px;/*từ border vào*/
+
+}
+.dv1{
+    background-color: aquamarine;
+}
+.dv2{
+    background-color: gray;
+}
+body{
+    background-image: url("../img/backgroud.jpg");
+    background-size: cover;
+}
